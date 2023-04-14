@@ -14,7 +14,10 @@ if __name__ == '__main__':
     print_hi('PyCharm')
 
 # See PyCharm help at https://www.jetbrains.com/help/pycharm/
+<<<<<<< HEAD
 if __name__ == '__main__':
     print_hi('PyCharm')
 if __name__ == '__main__':
     print_hi('PyCharm')
+=======
+>>>>>>> 83505e1 (Initial commit)
